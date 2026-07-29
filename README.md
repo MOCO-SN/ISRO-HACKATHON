@@ -128,10 +128,10 @@ The `img/` folder contains the following output screenshots from the BAH 2026 pr
 ### Output Previews
 
 #### Output 1
-![Output 1](../img/out.png)
+![Output 1](img/out.png)
 
 #### Output 2
-![Output 2](../img/out1.png)
+![Output 2](img/out1.png)
 
 ## Icon
 
