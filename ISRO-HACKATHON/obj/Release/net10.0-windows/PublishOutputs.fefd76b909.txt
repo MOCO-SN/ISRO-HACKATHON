@@ -1,0 +1,12 @@
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\ISRO-HACKATHON.exe
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\ISRO-HACKATHON.dll
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\ISRO-HACKATHON.deps.json
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\ISRO-HACKATHON.runtimeconfig.json
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\ISRO-HACKATHON.pdb
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\Guna.UI2.dll
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\OpenCvSharp.dll
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\OpenCvSharp.Extensions.dll
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\System.Management.dll
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\runtimes\win-x64\native\opencv_videoio_ffmpeg4130_64.dll
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\app.publish\runtimes\win\lib\net7.0\System.Management.dll
