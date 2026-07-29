@@ -118,12 +118,20 @@ The published output is located at `ISRO-HACKATHON/bin/Release/net10.0-windows/a
 
 The `img/` folder contains the following output screenshots from the BAH 2026 project:
 
-| File        | Description                         |
-|-------------|-------------------------------------|
-| `logo.png`  | Application logo                    |
-| `icon.png`  | Application icon                    |
-| `out.png`   | Sample processed output 1           |
-| `out1.png`  | Sample processed output 2           |
+| File         | Description                         |
+|--------------|-------------------------------------|
+| `logo.png`   | Application logo                    |
+| `icon.png`   | Application icon                    |
+| `out.png`    | Sample processed output 1           |
+| `out1.png`   | Sample processed output 2           |
+
+### Output Previews
+
+#### Output 1
+![Output 1](../img/out.png)
+
+#### Output 2
+![Output 2](../img/out1.png)
 
 ## Icon
 
