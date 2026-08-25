@@ -209,8 +209,7 @@ The `img/` folder contains the following screenshots and assets:
 |-----------------------|--------------------------------------|
 | `logo.png`            | Application logo                     |
 | `icon.png`            | Application icon                     |
-| `out.png`             | Sample processed output 1            |
-| `out1.png`            | Sample processed output 2            |
+| `processing.png`      | Sample processed output 1            |
 | `new_processed.png`   | New processed output 1               |
 | `new_processed1.png`  | New processed output 2               |
 | `input/`              | Staging folder for input images      |
@@ -219,16 +218,13 @@ The `img/` folder contains the following screenshots and assets:
 
 ### Output Previews
 
-#### Output 1
-![Output 1](img/out.png)
+#### Processing 
+![Output 1](img/processing.png)
 
-#### Output 2
-![Output 2](img/out1.png)
-
-#### New Processed 1
+#### New Processed Output
 ![New Processed 1](img/new_processed.png)
 
-#### New Processed 2
+#### New Processed Output
 ![New Processed 2](img/new_processed1.png)
 
 ## License
