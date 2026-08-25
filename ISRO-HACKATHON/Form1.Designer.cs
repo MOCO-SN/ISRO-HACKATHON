@@ -222,7 +222,7 @@
             guna2GradientButton2.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
             guna2GradientButton2.Font = new Font("Segoe UI", 9F);
             guna2GradientButton2.ForeColor = Color.White;
-            guna2GradientButton2.Location = new Point(27, 577);
+            guna2GradientButton2.Location = new Point(27, 578);
             guna2GradientButton2.Name = "guna2GradientButton2";
             guna2GradientButton2.ShadowDecoration.CustomizableEdges = customizableEdges39;
             guna2GradientButton2.Size = new Size(164, 35);
@@ -315,11 +315,11 @@
             // guna2HtmlLabel4
             // 
             guna2HtmlLabel4.BackColor = Color.Transparent;
-            guna2HtmlLabel4.Location = new Point(198, 54);
+            guna2HtmlLabel4.Location = new Point(206, 54);
             guna2HtmlLabel4.Name = "guna2HtmlLabel4";
-            guna2HtmlLabel4.Size = new Size(90, 22);
+            guna2HtmlLabel4.Size = new Size(82, 22);
             guna2HtmlLabel4.TabIndex = 5;
-            guna2HtmlLabel4.Text = "Object Boxes";
+            guna2HtmlLabel4.Text = "Show Boxes";
             guna2HtmlLabel4.Click += guna2HtmlLabel4_Click;
             // 
             // guna2HtmlLabel3

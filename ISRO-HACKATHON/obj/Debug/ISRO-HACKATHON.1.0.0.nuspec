@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ISRO-HACKATHON</id>
+    <version>1.0.0</version>
+    <authors>ISRO-HACKATHON</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="76e377ccd3973c17f2e139b15f9ceed62c5311d0" />
+    <dependencies>
+      <group targetFramework="net10.0-windows7.0">
+        <dependency id="Guna.UI2.WinForms" version="2.0.4.8" exclude="Build,Analyzers" />
+        <dependency id="OpenCvSharp4" version="4.13.0.20260627" exclude="Build,Analyzers" />
+        <dependency id="OpenCvSharp4.Extensions" version="4.13.0.20260627" exclude="Build,Analyzers" />
+        <dependency id="OpenCvSharp4.runtime.win" version="4.13.0.20260627" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net10.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Debug\net10.0-windows\ISRO-HACKATHON.runtimeconfig.json" target="lib\net10.0-windows7.0\ISRO-HACKATHON.runtimeconfig.json" />
+    <file src="C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Debug\net10.0-windows\ISRO-HACKATHON.dll" target="lib\net10.0-windows7.0\ISRO-HACKATHON.dll" />
+  </files>
+</package>

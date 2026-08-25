@@ -1,14 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "kvBaIOiSq7U=",
+  "dgSpecHash": "CSo+wLZqBYg=",
   "success": true,
   "projectFilePath": "C:\\Users\\mocosn\\source\\repos\\ISRO-HACKATHON\\ISRO-HACKATHON\\ISRO-HACKATHON.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mocosn\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.8\\guna.ui2.winforms.2.0.4.8.nupkg.sha512",
+    "C:\\Users\\mocosn\\.nuget\\packages\\microsoft.win32.systemevents\\10.0.9\\microsoft.win32.systemevents.10.0.9.nupkg.sha512",
     "C:\\Users\\mocosn\\.nuget\\packages\\opencvsharp4\\4.13.0.20260627\\opencvsharp4.4.13.0.20260627.nupkg.sha512",
     "C:\\Users\\mocosn\\.nuget\\packages\\opencvsharp4.extensions\\4.13.0.20260627\\opencvsharp4.extensions.4.13.0.20260627.nupkg.sha512",
     "C:\\Users\\mocosn\\.nuget\\packages\\opencvsharp4.runtime.win\\4.13.0.20260627\\opencvsharp4.runtime.win.4.13.0.20260627.nupkg.sha512",
-    "C:\\Users\\mocosn\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+    "C:\\Users\\mocosn\\.nuget\\packages\\opencvsharp4.windows\\4.13.0.20260627\\opencvsharp4.windows.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\mocosn\\.nuget\\packages\\opencvsharp4.wpfextensions\\4.13.0.20260627\\opencvsharp4.wpfextensions.4.13.0.20260627.nupkg.sha512",
+    "C:\\Users\\mocosn\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\mocosn\\.nuget\\packages\\system.drawing.common\\10.0.9\\system.drawing.common.10.0.9.nupkg.sha512",
+    "C:\\Users\\mocosn\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512",
+    "C:\\Users\\mocosn\\.nuget\\packages\\system.memory\\4.6.3\\system.memory.4.6.3.nupkg.sha512",
+    "C:\\Users\\mocosn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\mocosn\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\mocosn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\mocosn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.30\\microsoft.netcore.app.host.win-x64.8.0.30.nupkg.sha512"
   ],
   "logs": []
 }

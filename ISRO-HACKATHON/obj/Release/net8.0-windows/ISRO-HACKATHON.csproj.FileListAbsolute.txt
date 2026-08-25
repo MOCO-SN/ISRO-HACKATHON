@@ -1,0 +1,9 @@
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net8.0-windows\ISRO-HACKATHON.csproj.AssemblyReference.cache
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net8.0-windows\ISRO_HACKATHON.Form1.resources
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net8.0-windows\ISRO_HACKATHON.Properties.Resources.resources
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net8.0-windows\ISRO-HACKATHON.csproj.GenerateResource.cache
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net8.0-windows\ISRO-HACKATHON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net8.0-windows\ISRO-HACKATHON.AssemblyInfoInputs.cache
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net8.0-windows\ISRO-HACKATHON.AssemblyInfo.cs
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net8.0-windows\ISRO-HACKATHON.csproj.CoreCompileInputs.cache
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net8.0-windows\ISRO-HACKATHON.sourcelink.json

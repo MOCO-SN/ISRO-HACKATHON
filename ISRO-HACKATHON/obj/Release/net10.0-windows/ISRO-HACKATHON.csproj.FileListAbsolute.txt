@@ -24,3 +24,8 @@ C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net10.0-w
 C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net10.0-windows\ISRO-HACKATHON.pdb
 C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net10.0-windows\ISRO-HACKATHON.genruntimeconfig.cache
 C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net10.0-windows\ref\ISRO-HACKATHON.dll
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\ISRO-HACKATHON.dll.manifest
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\bin\Release\net10.0-windows\ISRO-HACKATHON.application
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net10.0-windows\ISRO-HACKATHON.sourcelink.json
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net10.0-windows\ISRO-HACKATHON.dll.manifest
+C:\Users\mocosn\source\repos\ISRO-HACKATHON\ISRO-HACKATHON\obj\Release\net10.0-windows\ISRO-HACKATHON.application
